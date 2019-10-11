@@ -1,6 +1,6 @@
 # Sudokupy
 
-Python Implementation of Sudoku using Tkinter
+Python Implementation of Sudoku for MacOS
 
 ## Part 1: Sudoku Game Setup
 
